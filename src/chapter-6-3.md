@@ -1,5 +1,4 @@
-Chapter 6: Involving Employees in Improvement Efforts: Providing Opportunities for Employee-Led Initiatives
-===========================================================================================================
+# Providing Opportunities for Employee-Led Initiatives
 
 Involving employees in improvement efforts is critical for improving engagement and retention. In this chapter, we will discuss the importance of providing opportunities for employee-led initiatives and techniques for involving employees in improvement efforts.
 

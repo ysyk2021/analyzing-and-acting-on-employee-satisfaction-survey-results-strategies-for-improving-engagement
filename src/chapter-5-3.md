@@ -1,5 +1,4 @@
-Chapter 5: Developing Action Plans to Address Survey Results: Creating SMART Goals
-==================================================================================
+# Creating SMART Goals
 
 Once an organization has analyzed the results of an employee satisfaction survey, the next step is to develop an action plan to address identified issues. In this chapter, we will discuss how to create SMART goals as part of an action plan.
 

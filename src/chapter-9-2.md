@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Improvement Efforts: Continuous Learning and Improvement
-==============================================================================
+# Continuous Learning and Improvement
 
 Employee satisfaction surveys are a valuable tool for organizations that want to improve engagement and retention. However, the work does not end with analyzing and acting on survey results. Organizations must continuously learn and improve their processes to sustain improvement efforts.
 

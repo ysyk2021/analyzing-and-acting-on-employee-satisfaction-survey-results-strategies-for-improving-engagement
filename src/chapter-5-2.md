@@ -1,5 +1,4 @@
-Chapter 5: Developing Action Plans to Address Survey Results: Prioritizing Areas for Improvement
-================================================================================================
+# Prioritizing Areas for Improvement
 
 Developing action plans is critical for addressing survey results and improving engagement and retention. In this chapter, we will discuss techniques for prioritizing areas for improvement and developing effective action plans.
 

@@ -1,5 +1,4 @@
-Chapter 4: Communicating Survey Results Effectively: Using Clear and Concise Language
-=====================================================================================
+# Using Clear and Concise Language
 
 Communicating survey results effectively is critical for achieving the desired outcomes of employee satisfaction surveys. It involves using clear and concise language to communicate survey findings to all stakeholders, including employees, managers, and senior leaders. In this chapter, we will explore the importance of using clear and concise language when communicating survey results.
 
