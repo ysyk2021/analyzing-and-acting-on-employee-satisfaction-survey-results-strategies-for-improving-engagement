@@ -1,4 +1,3 @@
-# Different Types of Employee Satisfaction Surveys
 
 Employee satisfaction surveys are a critical tool for organizations that want to improve employee engagement and retention. In this chapter, we will discuss the various types of employee satisfaction surveys.
 

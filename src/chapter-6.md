@@ -1,5 +1,3 @@
-Chapter 6: Involving Employees in Improvement Efforts
-=====================================================
 
 Involving employees in improvement efforts is essential for creating a positive work environment and improving engagement and retention. In this chapter, we will discuss techniques for involving employees in improvement efforts, encouraging employee feedback and input, and providing opportunities for employee-led initiatives.
 

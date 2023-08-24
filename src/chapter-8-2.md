@@ -1,4 +1,3 @@
-# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating the effectiveness of survey analysis is critical for improving engagement and retention over time. In this chapter, we will discuss techniques for establishing key performance indicators (KPIs) to measure the effectiveness of survey analysis.
 

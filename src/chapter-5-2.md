@@ -1,4 +1,3 @@
-# Prioritizing Areas for Improvement
 
 Developing action plans is critical for addressing survey results and improving engagement and retention. In this chapter, we will discuss techniques for prioritizing areas for improvement and developing effective action plans.
 

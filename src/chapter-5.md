@@ -1,5 +1,3 @@
-Chapter 5: Developing Action Plans to Address Survey Results
-============================================================
 
 Developing action plans is a critical step in improving employee engagement and retention. It involves identifying areas for improvement based on survey data, developing specific goals and actions to address those areas, and assigning responsibility for implementing those actions. In this chapter, we will explore techniques for developing action plans, prioritizing areas for improvement, and creating SMART goals.
 

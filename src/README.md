@@ -1,4 +1,4 @@
-# Introduction
+
 
 Employee satisfaction is a critical component of any successful business. High levels of employee engagement and retention can lead to increased productivity, positive workplace culture, and ultimately, improved profitability. However, many companies struggle with understanding and addressing employee satisfaction issues.
 

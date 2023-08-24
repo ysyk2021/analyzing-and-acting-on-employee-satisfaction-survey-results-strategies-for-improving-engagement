@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Improvement Efforts
-=========================================
 
 Sustaining improvement efforts is critical for achieving long-term employee engagement and retention goals. In this chapter, we will discuss techniques for sustaining improvement efforts, continuous learning and improvement, and adapting to changes in the workplace.
 

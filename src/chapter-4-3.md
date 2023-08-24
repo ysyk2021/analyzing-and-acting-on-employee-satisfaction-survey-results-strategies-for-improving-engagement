@@ -1,4 +1,3 @@
-# Focusing on Actionable Recommendations
 
 Communicating survey results effectively is critical for achieving the desired outcomes of employee satisfaction surveys. It involves using clear and concise language, tailoring messages to different stakeholders, and focusing on actionable recommendations that can be implemented to improve employee engagement and retention. In this chapter, we will explore the importance of focusing on actionable recommendations when communicating survey results.
 

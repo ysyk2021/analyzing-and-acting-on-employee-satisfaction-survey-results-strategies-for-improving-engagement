@@ -1,4 +1,3 @@
-# Encouraging Employee Feedback and Input
 
 Encouraging employee feedback and input is critical for involving employees in improvement efforts. In this chapter, we will discuss the importance of employee feedback and input and techniques for encouraging it.
 

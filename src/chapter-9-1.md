@@ -1,4 +1,3 @@
-# Techniques for Sustaining Improvement Efforts
 
 Improving employee engagement and retention is an ongoing process. Organizations must continue to monitor and evaluate their strategies to ensure that they are effective in creating a positive work environment. In this chapter, we will discuss techniques for sustaining improvement efforts.
 

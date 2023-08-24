@@ -1,4 +1,3 @@
-# Analyzing Results and Making Improvements
 
 Analyzing employee satisfaction survey results is just the beginning of the improvement process. In this chapter, we will discuss techniques for measuring and evaluating the effectiveness of survey analysis and making improvements based on those evaluations.
 

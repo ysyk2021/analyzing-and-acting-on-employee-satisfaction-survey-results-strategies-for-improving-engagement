@@ -1,4 +1,3 @@
-# Techniques for Communicating Survey Results Effectively
 
 Communicating survey results effectively is essential for achieving the desired outcomes of employee satisfaction surveys. It involves using clear and concise language, tailoring messages to different stakeholders, and selecting appropriate communication channels. In this chapter, we will explore techniques for communicating survey results effectively.
 

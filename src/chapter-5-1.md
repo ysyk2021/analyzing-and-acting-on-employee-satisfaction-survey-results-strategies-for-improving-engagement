@@ -1,4 +1,3 @@
-# Techniques for Developing Action Plans to Address Survey Results
 
 Developing effective action plans is critical for addressing identified issues and improving employee satisfaction, engagement, and retention. In this chapter, we will discuss techniques for developing action plans to address survey results.
 

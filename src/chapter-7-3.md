@@ -1,4 +1,3 @@
-# Monitoring Progress and Making Adjustments
 
 Implementing improvement strategies is a critical step in improving employee engagement and retention. It involves developing action plans based on survey data, monitoring progress towards achieving goals, and making adjustments as needed. In this chapter, we will explore the importance of monitoring progress and making adjustments when implementing improvement strategies.
 

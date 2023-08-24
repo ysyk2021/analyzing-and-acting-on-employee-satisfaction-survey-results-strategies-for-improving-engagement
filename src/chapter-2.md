@@ -1,5 +1,3 @@
-Chapter 2: Overview of Employee Satisfaction Surveys
-====================================================
 
 Employee satisfaction surveys are a critical tool for organizations that want to improve employee engagement and retention. In this chapter, we will discuss the various types of employee satisfaction surveys, the importance of confidentiality and anonymity, and techniques for overcoming common challenges in survey design and implementation.
 

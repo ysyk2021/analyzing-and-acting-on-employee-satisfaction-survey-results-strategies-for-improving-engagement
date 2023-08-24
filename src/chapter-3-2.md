@@ -1,4 +1,3 @@
-# Identifying Key Metrics and Indicators
 
 Understanding survey data analysis is critical for identifying areas for improvement and developing effective strategies to improve employee engagement and retention. It involves analyzing survey results, identifying trends and patterns, and interpreting the relationship between survey data and employee engagement and retention. In this chapter, we will explore techniques for identifying key metrics and indicators in survey data analysis.
 

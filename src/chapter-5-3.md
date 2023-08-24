@@ -1,4 +1,3 @@
-# Creating SMART Goals
 
 Once an organization has analyzed the results of an employee satisfaction survey, the next step is to develop an action plan to address identified issues. In this chapter, we will discuss how to create SMART goals as part of an action plan.
 
@@ -41,5 +40,4 @@ Conclusion
 ----------
 
 In conclusion, developing action plans to address survey results is critical for improving employee engagement and retention. Using SMART goals as part of an action plan provides a clear and concise framework for developing actionable steps to address identified issues. By incorporating SMART goals into their action plans, organizations can ensure that their interventions are specific, measurable, attainable, relevant, and time-bound, ultimately leading to improved satisfaction and productivity among employees.
-
 
