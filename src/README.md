@@ -8,3 +8,7 @@ Whether you're an HR professional, manager, or business owner, this book offers 
 With real-world examples and case studies, this book demonstrates how analyzing employee satisfaction survey results can be a powerful tool for organizational change and growth. Whether you are just starting out or looking to optimize your current approach, Analyzing and Acting on Employee Satisfaction Survey Results: Strategies for Improving Engagement and Retention is an essential resource for any employer looking to improve their organizational effectiveness and achieve long-term success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
